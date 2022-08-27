@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{DBAFB4E5-F3DD-4C41-B29A-C7F821D33036}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
+    <Files>
+      <File FileName="NetExam.Test/OfficeRentalTests.cs" Line="87" Column="17" />
+      <File FileName="NetExam/OfficeRental.cs" Line="1" Column="1" />
+      <File FileName="README.md" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NetExam" expanded="True">
+            <Node name="Solution Items" expanded="True">
+              <Node name="/Users/francoemmanuelbrusca/Downloads/Ejercicio para Developer Net 2/README.md" selected="True" />
+            </Node>
+            <Node name="NetExam" expanded="True" />
+            <Node name="NetExam.Test" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="NetExam" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.NetExam.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kpz+9ddFw8Bk88fp82Eg37U71DEoSMbVG0ETXRv29EJxDBQlOmbIVWEIMEP8uynrMaIuwtO3eyd4vT2vP173IQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lucho\\Desktop\\CURSO PROG NET\\Urbetrack\\Huilén\\Ejercicio para Developer Net 2\\Ejercicio para Developer Net 2\\NetExam\\NetExam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucho\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Lucho\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
